@@ -1,1 +1,7 @@
-ERN.flow = KIpi(ern)
+ERN.flow = {
+    U: KIpi.U,
+    W: KIpi.W,
+    E: KIpi.E,
+    pipeline: [W1, W2, W3, E1, E2, E3],
+    farbe: gelb → rot
+}
