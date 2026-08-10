@@ -1,0 +1,5 @@
+prefetch(ERN):
+    lädt Ursache
+    hält Wirkung
+    stabilisiert Ergebnis
+ERN.prefetch = [U, W, E]
