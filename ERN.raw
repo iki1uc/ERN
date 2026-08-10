@@ -1,0 +1,17 @@
+<h2>ERN · Prefetch</h2>
+<pre>
+prefetch(ERN):
+- lädt Ursache
+- hält Wirkung
+- stabilisiert Ergebnis
+
+ERN.prefetch = [U, W, E]
+
+ERN.respo = lokale Antwort
+ERN.citizen = lokale Station
+ERN.body = MAU(ern)
+ERN.core = MAIN(ern)
+ERN.path = TMP(ern)
+ERN.flow = KIpi(ern)
+ERN.port = PORT(ern)
+</pre>
