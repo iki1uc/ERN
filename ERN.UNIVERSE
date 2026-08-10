@@ -1,0 +1,39 @@
+ERN.UNIVERSE = Raum + Körper + Epoche + Verlauf + Summation
+
+Räume:
+a = Ursprung
+b = Verlauf
+c = Continuum
+
+Körper:
+BODY     = Bewegung
+CITIZEN  = Lage
+CORE     = Identität
+FLOW     = Fluss
+PATH     = Weg
+PORT     = Übergang
+
+Epochen:
+kommen → sein → gehen → zurückkehren
+
+Verläufe:
+1 → 2 → 3 → 4 → 5 → 6
+
+Summation:
+◉ Ursache
+◎ Wirkung
+▣ Ergebnis
+Σ Wiederkehr
+
+UNIVERSE ist:
+ein Raumkörper
+ein Labyrinth
+eine Pyramide
+ein Puzzle
+ein Tetris
+eine Wirtschaft
+eine Börse
+eine Verwaltung
+ein Scanner
+ein Spiel
+ein Σ-System
