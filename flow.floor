@@ -6,3 +6,13 @@ flow.floor = {
     physik: Potential/Kraft/Zustand,
     stabil: Σ◉◎▣
 }
+flow floor (ERN)
+----------------
+Z (c)  = Boden / Continuum
+Y (b)  = Verlauf / Kraft
+X (a)  = Ursprung / Potential
+
+Pipeline läuft auf:
+Z → Y → X
+c → b → a
+rot → gelb → grün
