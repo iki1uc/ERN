@@ -1,1 +1,5 @@
-ERN.citizen = lokale Station
+ERN.citizen = {
+    station: lokal,
+    lage: a/b/c,
+    ort: TMP(ort)
+}
