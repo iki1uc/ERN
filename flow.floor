@@ -1,0 +1,8 @@
+flow.floor = {
+    base: a,
+    mid: b,
+    deep: c,
+    geo: X/Y/Z,
+    physik: Potential/Kraft/Zustand,
+    stabil: Σ◉◎▣
+}
