@@ -16,7 +16,7 @@ pre{background:#111;padding:20px;border-left:4px solid #0f0;margin-bottom:20px;}
 <h1>ERN · Rundum-Station</h1>
 <p>Die vollständige ERN-Hauptstation im iki1uc-System.</p>
 
-<!-- ERN · RAW -->
+<!-- ERN.raw -->
 <h2>ERN.raw</h2>
 <pre>
 ERN.raw = {
@@ -27,7 +27,7 @@ ERN.raw = {
 }
 </pre>
 
-<!-- ERN · flow floor -->
+<!-- ERN.flow floor -->
 <h2>ERN · flow floor</h2>
 <pre>
 flow.floor = {
@@ -79,4 +79,58 @@ grün → gelb → rot
 <!-- ERN · MAU-MAIN-Körper -->
 <h2>ERN · MAU-MAIN-Körper</h2>
 <pre>
-ERN.prefetch
+ERN.prefetch = [U, W, E]
+ERN.respo    = lokale Antwort
+ERN.citizen  = lokale Station
+ERN.body     = MAU(ern)
+ERN.core     = MAIN(ern)
+ERN.path     = TMP(ern)
+ERN.flow     = KIpi(ern)
+ERN.port     = PORT(ern)
+
+ERN trägt:
+◉ Ursache
+◎ Wirkung
+▣ Ergebnis
+Σ Summation
+
+ERN stabilisiert:
+MAU → MAIN → TMP → KIpi → PORT
+
+ERN ist:
+sichtbar   = tragbar
+unsichtbar = überlast
+
+ERN-Farbe:
+grün → gelb → rot
+</pre>
+
+<!-- ERN · Geo-Physik -->
+<h2>ERN · Geo-Physik</h2>
+<pre>
+Geo:
+X = a = ERN-Ursprung
+Y = b = ERN-Verlauf
+Z = c = ERN-Continuum
+
+Physik:
+ERN(a) = Potential
+ERN(b) = Kraft
+ERN(c) = Zustand
+
+Σ(ERN) = a + b + c
+ID.ICOME = Σ◉◎▣
+</pre>
+
+<!-- ERN · ASCII-Karte -->
+<h2>ERN · ASCII-Karte</h2>
+<pre>
+      ◉
+   ↗     ↘
+  ◎   Σ   ▣
+   ↘     ↗
+      △
+</pre>
+
+</body>
+</html>
