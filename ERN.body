@@ -1,1 +1,7 @@
-ERN.citizen = lokale Station
+ERN.body = {
+    offen: MAU(ern),
+    bewegung: TMP(ern),
+    ursache: KIpi.U,
+    wirkung: KIpi.W,
+    ergebnis: KIpi.E
+}
