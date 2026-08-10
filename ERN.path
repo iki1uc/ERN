@@ -1,1 +1,8 @@
-ERN.path = TMP(ern)
+ERN.path = {
+    tmp: [1..9],
+    zug: slide,
+    hit: wette,
+    dump: score,
+    lage: ort,
+    farbe: grün → gelb → rot
+}
