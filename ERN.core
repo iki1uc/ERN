@@ -1,1 +1,5 @@
-ERN.core = MAIN(ern)
+ERN.core = {
+    stabil: MAIN(ern),
+    kern: Σ◉◎▣,
+    farbe: grün → gelb → rot
+}
