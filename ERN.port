@@ -1,1 +1,7 @@
-ERN.port = PORT(ern)
+ERN.port = {
+    in: 0.33,
+    mid: 0.66,
+    out: 0.99,
+    station: PORT,
+    transfer: IN/OUT
+}
